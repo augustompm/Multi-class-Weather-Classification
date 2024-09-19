@@ -27,7 +27,7 @@ Este projeto implementa uma **Rede Neural Convolucional (CNN)** para classificar
 1. **Clone o Repositório**:
 
    ```bash
-   git clone https://github.com/augustompm/classify_weather.git
+   git clone https://github.com/augustompm/Multi-class-Weather-Classification.git
 
 2. **Baixe e adicione o dataset no sub-diretório 'Multi-class Weather Dataset', que se encontra em:**
 
