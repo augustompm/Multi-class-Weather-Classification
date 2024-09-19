@@ -29,7 +29,6 @@ Este projeto implementa uma **Rede Neural Convolucional (CNN)** para classificar
    ```bash
    git clone https://github.com/augustompm/classify_weather.git
 
-Agradecimentos
-Este projeto foi adaptado a partir do livro Hands-On Guide To Image Classification de Vivian Siahaan.
+Agradecimentos: Projeto adaptado a partir do livro Hands-On Guide To Image Classification de Vivian Siahaan.
 
 Este projeto está licenciado sob Creative Commons.
