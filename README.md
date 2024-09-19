@@ -29,10 +29,12 @@ Este projeto implementa uma **Rede Neural Convolucional (CNN)** para classificar
    ```bash
    git clone https://github.com/augustompm/classify_weather.git
 
-Agradecimentos: Projeto adaptado a partir do livro Hands-On Guide To Image Classification de Vivian Siahaan.
+2. **Baixe e adicione o dataset no sub-diretório 'Multi-class Weather Dataset', que se encontra em:**
 
-O dataset também foi disponibilizado pela autora em:
-```url
-https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=download
+   ```url
+   https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=download
+
+Agradecimento: Adaptado a partir do livro Hands-On Guide To Image Classification de Vivian Siahaan.
 
 Este projeto está licenciado sob Creative Commons.
+
