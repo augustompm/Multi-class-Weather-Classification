@@ -31,4 +31,8 @@ Este projeto implementa uma **Rede Neural Convolucional (CNN)** para classificar
 
 Agradecimentos: Projeto adaptado a partir do livro Hands-On Guide To Image Classification de Vivian Siahaan.
 
+O dataset também foi disponibilizado pela autora em:
+```url
+https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset?resource=download
+
 Este projeto está licenciado sob Creative Commons.
